@@ -7,9 +7,6 @@ import { ErrorComponent } from './error/error.component';
 import { workcomponents } from './work/work.component';
 import { ExperienceComponent } from './experoence/Experience.component';
 import { AppComponent } from './app.component';
-import { SoftwareComponent } from './software/software.component';
-import { AppsComponent } from './apps/apps.component';
-import { GraphicdesignComponent } from './graphicdesign/graphicdesign.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },

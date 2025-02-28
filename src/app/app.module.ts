@@ -12,8 +12,6 @@ import { workcomponents } from './work/work.component';
 import { ExperienceComponent } from './experoence/Experience.component';
 import { FormsModule } from '@angular/forms';
 import { AppsComponent } from './apps/apps.component';
-import { SoftwareComponent } from './software/software.component';
-import { GraphicdesignComponent } from './graphicdesign/graphicdesign.component';
 
 @NgModule({
   declarations: [
@@ -26,8 +24,6 @@ import { GraphicdesignComponent } from './graphicdesign/graphicdesign.component'
     workcomponents,
     ErrorComponent,
     AppsComponent,
-    SoftwareComponent,
-    GraphicdesignComponent,
   ],
   imports: [BrowserModule, AppRoutingModule,FormsModule],
   providers: [],

@@ -1,7 +1,7 @@
 
-.EXPERIENCE{border-left: 0.1px solid #777;}
-.EXPERIENCE a {text-decoration: none; color: black;}
-.EXPERIENCE .Shape-tri{background-color: rgb(242, 243, 247);}
+.experience{border-left: 0.1px solid #777;}
+.experience a {text-decoration: none; color: black;}
+.experience .Shape-tri{background-color: rgb(242, 243, 247);}
 .shape-C{
     width: 4rem;
     padding: 10px;
